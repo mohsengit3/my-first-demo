@@ -9,7 +9,7 @@ airdrops = {
 sender_address = '0xProjectWallet'
 
 # نام توکن
-token_name = 'MyTokens'
+token_name = 'MyToken'
 
 print(f"شروع فرآیند ایردراپ توکن‌های {token_name} از آدرس {sender_address}\n")
 

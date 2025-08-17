@@ -11,7 +11,7 @@ sender_address = '0xProjec,tWallet'
 # نام توکن
 token_name = 'MyToken'
 
-print(f"شروع فرآیند ایردراپ توکن‌های {token_name} از آدرس {sender_address}\n")
+print(f" شروع فرآیند ایردراپ توکن‌های {token_name} از آدرس {sender_address}\n")
 
 # پیمایش در دیکشنری و نمایش تراکنش‌ها
 for address, amount in airdrops.items() :

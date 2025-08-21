@@ -6,7 +6,7 @@ airdrops = {
 }
 
 # آدرس کیف پول فرستنده (کیف پول پروژه)
-sender_address = '0xProjec,tWallet'
+sender_address = '0xProjec,Wallet'
 
 # نام توکن
 token_name = 'MyToken'

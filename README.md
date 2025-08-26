@@ -15,3 +15,5 @@ print(f" شروع فرآیند ایردراپ توکن‌های {token_name} ا�
 # پیمایش در دیکشنری و نمایش تراکنش‌ه
 for address, amount in airdrops.items():
     print(f"ارسال {amount} توکن {token_name} به آدرس {address}")
+
+    good

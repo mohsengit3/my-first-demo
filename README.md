@@ -1,4 +1,4 @@
-airdrops = {
+airdrop = {
     '0xAddress1': 100,  # آدرس کیف پول و تعداد توکن
     '0xAddress2': 50,
     '0xAddress3': 200,

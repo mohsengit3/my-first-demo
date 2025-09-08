@@ -8,7 +8,7 @@ airdrop = {
 sender_address = '0xProjec,Wallet'
 
 # نام توکن
-token_name == 'MyToken'
+token_name = 'MyToken'
 
 print(f" شروع فرآیند ایردراپ توکن‌های {token_name} ازآدرس {sender_address}\n")
 # پیمایش در دیکشنری و نمایش تراکنش‌

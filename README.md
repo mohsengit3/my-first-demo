@@ -17,5 +17,5 @@ for address, amount in airdrops.items():
 
     that right
     excellent
-    COME ON
+    COME ON .
     

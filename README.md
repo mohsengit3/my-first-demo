@@ -18,4 +18,5 @@ for address, amount in airdrops.items():
 
     that right
     COME ON
+    GOD
     

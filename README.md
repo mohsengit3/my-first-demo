@@ -6,7 +6,6 @@ airdrop = {
 }
 # آدرس کیف پول فرستنده (کیف پول پروژه)
 sender_address = '0xProject,Wallet'
-
 # نام توکن
 token_name = 'MyToken'
 
@@ -15,5 +14,3 @@ print(f" شروع فرآیند ایردراپ توکن‌های {token_name} ا�
 for address, amount in airdrops.items():
 
     print(f"ارسال {amount} توکن {token_name} به آدرس {address}")
-
-    

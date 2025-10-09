@@ -1,5 +1,5 @@
- airdrop = {
-    '0xAddress1': 100,  # آدرس کیف پول و تعداد توکن
+airdrop = {
+    '0xAddress1': 100, # آدرس کیف پول و تعداد توکن
     '0xAddress2': 50,
     '0xAddress3': 200,
     '0xAddress4': 7,
@@ -13,5 +13,4 @@ print(f" شروع فرآیند ایردراپ توکن‌های {token_name} ا�
 # پیمایش در دیکشنری و نمایش تراکنش‌
 for address, amount in airdrops.items():
 
-    print(f"ارسال {amount} توکن {token_name} به آدرس {address}")
-
+   print(f"ارسال {amount} توکن {token_name} به آدرس {address}")

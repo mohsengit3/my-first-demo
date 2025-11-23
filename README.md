@@ -15,5 +15,5 @@ for address, amount in airdrops.items():
 
    print(f"ارسال {amount} توکن {token_name} به آدرس {address}")
 
-for think
+forward
 
